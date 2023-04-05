@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/iKala-MA-application/static/css/main.1ba34a52.css",
+    "main.js": "/iKala-MA-application/static/js/main.f8ceed4c.js",
+    "static/media/blog01.png": "/iKala-MA-application/static/media/blog01.cefc0932eae0d33a0342.png",
+    "static/media/blog03.png": "/iKala-MA-application/static/media/blog03.d922323861096f25274f.png",
+    "static/media/blog04.png": "/iKala-MA-application/static/media/blog04.742c1357e7b6c11078e6.png",
+    "static/media/blog05.png": "/iKala-MA-application/static/media/blog05.bfaa1c1e3851158e0e1f.png",
+    "static/media/blog02.png": "/iKala-MA-application/static/media/blog02.ab0eb367561796e91532.png",
+    "static/media/self.jpg": "/iKala-MA-application/static/media/self.d2ddaa3a5721039ac840.jpg",
+    "static/media/cdp-01-feature.png": "/iKala-MA-application/static/media/cdp-01-feature.1ccf84fd5023a224ca2c.png",
+    "static/media/iKala.png": "/iKala-MA-application/static/media/iKala.0884ae26151ecabce450.png",
+    "static/media/people.png": "/iKala-MA-application/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "index.html": "/iKala-MA-application/index.html",
+    "main.1ba34a52.css.map": "/iKala-MA-application/static/css/main.1ba34a52.css.map",
+    "main.f8ceed4c.js.map": "/iKala-MA-application/static/js/main.f8ceed4c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ba34a52.css",
+    "static/js/main.f8ceed4c.js"
+  ]
+}
