@@ -1,1 +1,2 @@
-This website is for iKala MA application purpose
+[DEMO](https://chihtsunglu.github.io/iKala-MA-application/)
+This project is for iKala MA application only
