@@ -1,2 +1,3 @@
 [DEMO](https://chihtsunglu.github.io/iKala-MA-application/)
-This project is for iKala MA application only
+I developed a React-based web to demonstrate my understanding in not only front-end development but also digital marketing industry.
+
